@@ -11,7 +11,7 @@ body,html{
 }
 #b{
 	background:#000000;
-	height:800px;
+	height:900px;
 	text-align:center;
 	background-size:cover;
 	background-position:center;
@@ -44,6 +44,7 @@ input{
 #output{
 	color:#ffffff;
 	margin-top:3%;
+	font-family:"Courier New";
 }
 button{
 	display:block;
