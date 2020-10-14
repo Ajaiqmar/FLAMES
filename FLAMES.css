@@ -7,7 +7,7 @@
 	src: url('new.ttf');
 }
 body{
-	font-family:new;
+	font-family:new,"Courier new";
 	color:#ffffff;
 }
 #b{
