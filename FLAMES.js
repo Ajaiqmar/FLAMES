@@ -1,5 +1,5 @@
 var name1,name2,msg,x="";
-var dict={F:"FRIENDS",L:'LOVE',A:'AFFECTION',M:'MARRIAGE',E:'ENEMY',S:'SISTER'}
+var dict={F:"FRIENDS",L:'LOVE',A:'AFFECTION',M:'MARRIAGE',E:'ENEMY',S:'SIBLING'}
 
 function refresh(msg)
 {
