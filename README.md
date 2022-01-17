@@ -13,10 +13,8 @@ You will be provided with two strings A and B. Firstly, we have to remove the co
 
 <h2> 📱TECHNOLOGY STACK </h2>
 
-<nav>
-  <img src="https://img.shields.io/badge/HTML-%20-brightgreen" />
-  <img src="https://img.shields.io/badge/CSS-%20-red" />
-  <img src="https://img.shields.io/badge/JS-%20-blue" />
-</nav>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"><img src="https://img.shields.io/badge/HTML-%20-brightgreen" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-%20-red" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JS-%20-blue" /></a>
 
 
