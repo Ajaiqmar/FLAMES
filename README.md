@@ -13,6 +13,6 @@ You will be provided with two strings A and B. Firstly, we have to remove the co
 
 <h2> 📱TECHNOLOGY STACK </h2>
 
-
+<img src="https://img.shields.io/badge/HTML-v5.0%20-brightgreen" />
 
 
