@@ -1,17 +1,12 @@
+/* CSS - MOBILE DEVICES */
+
+/* HTML ELEMENT REFERENCE */
 *{
 	padding:0px;
 	margin:0px;;
 }
 body,html{
 	height:100%;
-}
-
-#b{
-	background:#000000;
-	height:900px;
-	text-align:center;
-	background-size:cover;
-	background-position:center;
 }
 h2{
 	font-family: 'Love Ya Like A Sister', cursive;
@@ -41,11 +36,6 @@ input{
 	font-family: 'Nunito', sans-serif;
 	font-size : 1.2rem;
 }
-#output{
-	color:#ffffff;
-	font-family: 'Love Ya Like A Sister', cursive;
-	font-size: 2rem;
-}
 button{
 	display:block;
 	margin:2% auto;
@@ -70,4 +60,19 @@ p{
 	width:80%;
 	margin:0 auto;
 	font-size : 0.8rem;
+}
+
+
+/* HTML ID REFERENCE */
+#b{
+	background:#000000;
+	height:900px;
+	text-align:center;
+	background-size:cover;
+	background-position:center;
+}
+#output{
+	color:#ffffff;
+	font-family: 'Love Ya Like A Sister', cursive;
+	font-size: 2rem;
 }
