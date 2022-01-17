@@ -1,4 +1,4 @@
-
+// FUNCTION TO REMOVE THE LINE THROUGH THE LETTERS IN THE WORD "FLAMES"
 function refresh(msg)
 {
 	var i;
@@ -8,6 +8,7 @@ function refresh(msg)
 	}
 }
 
+// FUNCTION TO RESET INPUT TAGS BACK TO DEFAULT.
 function refreshBoard()
 {
 	var v='FLAMES';
@@ -17,6 +18,7 @@ function refreshBoard()
 	refresh(v);
 }
 
+// FUNCTION TO CALCULATE THE OPTION USING THE GIVEN INPUT.
 function calculate()
 {
 	var v = 'FLAMES',c = 0;
@@ -35,7 +37,8 @@ function calculate()
 	else
 	{
 		hashTable = [];
-
+		
+		// REMOVING THE COMMON CHARACTERS IN THE GIVEN NAMES USING HASHTABLE.
 		for(var i=0;i<26;i++)
 		{
 			hashTable.push(0);
@@ -63,6 +66,9 @@ function calculate()
 		}
 
 		var i = 0,j = 0;
+		// IMPLEMENTING AN ALGORITHM SIMILAR TO ROUND ROBIN SCHEDULING. HOW IT BASICALLY WORKS IS WE TRAVERSE THROUGH THE LETTERS UNTIL THE COUNT
+		// REACHES A CERTAIN THRESHOLD AND THEN WE REMOVE THE CHARACTER THAT IS PRESENT AT THAT THRESHOLD, WE CONTINUE
+		// PROCESS IN CLOCK WISE UNTIL ONLY ONE CHARACTER REMIANS.
 		while(v.length!=1)
 		{
 			i=i+1;
