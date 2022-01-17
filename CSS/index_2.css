@@ -1,3 +1,7 @@
+/* CSS - IPAD / TABLET DEVICES */
+
+
+/* HTML ELEMENT REFERENCE */
 *{
 	padding:0;
 	margin:0;
@@ -6,29 +10,12 @@ body{
 	font-family: 'Love Ya Like A Sister', cursive;
 	color:#ffffff;
 }
-#b{
-	background:#000000;
-	transform:translate(23.4375rem,11.25rem);
-	height:34.375rem;
-	width:25rem;
-	text-align:center;
-	padding:0.625rem;
-	border-radius:1.25rem;
-	-webkit-border-radius:1.25rem;
-	-o-border-radius:1.25rem;
-	-moz-border-radius:1.25rem;
-	-ms-border-radius:1.25rem;
-}
 h2{
 	display:inline-block;
 	margin:0.625rem;
 	margin-top:2rem;
 	color:#ffffff;
 	font-size:4rem;
-}
-#output{
-	font-family: 'Love Ya Like A Sister', cursive;
-	font-size: 2rem;
 }
 input{
 	color:#ffffff;
@@ -54,6 +41,9 @@ p{
 	font-family: 'Nunito', sans-serif;
 	font-size : 0.8rem;
 }
+
+
+/* HTML ID REFERENCE */
 #submit{
 	display:block;
 	margin: 1.25rem auto 2.5rem;
@@ -89,4 +79,21 @@ p{
 #submit:hover,#refresh:hover{
 	color:#000000;
 	background-color:#ffffff;
+}
+#b{
+	background:#000000;
+	transform:translate(23.4375rem,11.25rem);
+	height:34.375rem;
+	width:25rem;
+	text-align:center;
+	padding:0.625rem;
+	border-radius:1.25rem;
+	-webkit-border-radius:1.25rem;
+	-o-border-radius:1.25rem;
+	-moz-border-radius:1.25rem;
+	-ms-border-radius:1.25rem;
+}
+#output{
+	font-family: 'Love Ya Like A Sister', cursive;
+	font-size: 2rem;
 }
