@@ -1,3 +1,4 @@
+<img src="IMG/banner.png" />
 <h2> 🔥FLAMES </h2>
 The <a href="https://ajaiqmar.github.io/FLAMES/">FLAMES</a> Application is one of my projects in the early days of my Software Development journey. It is a product of me acting upon one of the crazy ideas that pops up in my head 🤪. Even though there isn't much work to be done in the process of building this application, It really gave me an idea of how Software Development can be used to bring creative ideas into existence.
 
